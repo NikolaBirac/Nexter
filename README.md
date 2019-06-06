@@ -5,6 +5,7 @@ Technologies:
 - HTML5
 - CSS Grid
 - SASS
+- BEM
 - NPM
 
 ## How to run
