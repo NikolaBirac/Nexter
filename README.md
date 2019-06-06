@@ -1,12 +1,13 @@
-# Forkify
-JavaScript application for recipes searching.
+# Nexter
+Static website
 
-The aim of project is practicing:
-- Vanilla ES6 JavaScript
-- MVC Design Pattern
-- Webpack
+Technologies:
+- HTML5
+- CSS Grid
+- SASS
+- NPM
 
-## How to run app
+## How to run
 - step 1: Clone or download repository
 - step 2: Install node.js
 - step 3: Run "npm install"
